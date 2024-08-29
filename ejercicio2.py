@@ -10,6 +10,6 @@ def generador_potencia(exponente):
 elevar_cuadrado = generador_potencia(2)
 print(" El cuadrado es: ",elevar_cuadrado(5))##Cambios realizados en la sálida de datos
 
-elevar_cubo = generador_potencia(3)
+elevar_cubo = generador_potencia(3)##Calculo de la potencia al cubo
 print(f"El cubo es: {elevar_cubo(4)}")
 
