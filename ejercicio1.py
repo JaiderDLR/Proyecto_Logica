@@ -12,5 +12,7 @@ def operaciones_basicas(n1, n2):#Función Externa
 
 print(f"El resultado de la suma y la multiplación es = {operaciones_basicas(4,5)}")
 
+##comentario de pull request
+
 
 
